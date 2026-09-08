@@ -1,7 +1,7 @@
 <p align="left">
-  <!-- Gráfico de Estatísticas Gerais -->
-  <img height="170" src="https://githubusercontent.com" />
+  <!-- Estatísticas Gerais Estáveis -->
+  <img height="170" src="https://vercel.app" />
   
-  <!-- Gráfico das Suas Linguagens -->
-  <img height="170" src="https://githubusercontent.com" />
+  <!-- Gráfico de Linguagens Alternativo Super Estável (Gmetrics) -->
+  <img height="170" src="https://vercel.app" />
 </p>
