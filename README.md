@@ -38,11 +38,16 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,github&theme=dark" alt="My Skills" />
   </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-171823?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Editor" />
 </p>
 
 ---
+
+## 📊 GitHub & Insights
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanMano&theme=radical" alt="Profile Details" />
@@ -51,8 +56,6 @@
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" />
 </p>
-
-
 
 ---
 
