@@ -50,7 +50,7 @@
 ## 📊 GitHub & Insights
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanMano&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanMano&theme=radical&v=1" alt="Profile Details" />
 </p>
 
 <p align="left">
