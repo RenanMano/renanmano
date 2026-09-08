@@ -1,0 +1,23 @@
+name: Update GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Atualiza automaticamente todos os dias à meia-noite
+  workflow_dispatch: # Permite que você clique em um botão para atualizar manualmente quando quiser
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Readme Stats
+        uses: anuraghazra/github-readme-stats-action@v2
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          username: renanmano
+          output_dir: generated # Pasta onde as imagens corrigidas serão salvas
+          # Customizações visuais idênticas ao seu tema:
+          stats_options: --theme=tokyonight --show_icons=true --count_private=true
+          langs_options: --theme=tokyonight --layout=compact
