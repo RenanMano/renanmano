@@ -49,8 +49,12 @@
 
 ## 📊 GitHub & Insights
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RenanMano/RenanMano/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanMano&theme=radical&v=1" alt="Profile Details" />
+</p>
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" />
 </p>
 
 ---
