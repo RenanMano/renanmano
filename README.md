@@ -1,19 +1,27 @@
-# Hi 👋, I'm Renan Mano
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3670A0&vCenter=true&width=500&lines=Hi+I'm Renan Mano;Computer+Science+Student" alt="Typing SVG" />
+  </a>
+</p>
 
-🚀 **Computer Science student at Fiap**  
-🇧🇷 Brazil
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RenanMano&label=Profile%20Views&color=3670A0&style=for-the-badge" alt="Profile Views" />
+</p>
 
-**I really enjoy automation and am currently focused on pursuing a career as a Machine Learning Engineer.**.
+🚀 **Computer Science student at Fiap** | 🇧🇷 Brazil
+
+**I really enjoy automation and am currently focused on pursuing a career as a Machine Learning Engineer.**
+
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/RenanMano">
-    <img src="https://img.shields.io/badge/GitHub-RenanMano-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/renan-fracalossi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/r.f.m.oficial/">
-    <img src="https://img.shields.io/badge/Instagram-@r.f.m.oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -21,19 +29,38 @@
 
 ## 🧠 I am currently...
 
--   Completing my career in back-end development with Python.
+- 🐍 Building back-end systems and automation with Python.
+- 🤖 Studying Data Science and Machine Learning foundations.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanMano&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" />
+</p>
+
+
+
+---
 
 ## 🚀 Philosophy
 
 > _"Loyalty is a two-way street. If I demand it from you, then you receive it from me."_
 
----
+<br/>
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ If you like my work, consider starring a repository.  
+🤝 Always open to collaborations, partnerships, and cool ideas!
