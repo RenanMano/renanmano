@@ -47,7 +47,7 @@ Welcome to my **Knowledge Atelier** — a public record of how I turn study into
 <table>
   <tr>
     <td width="50%" valign="top"><sub>01 / AUTOMATION</sub><h3>Under development</h3><p>...</p><p><code>Python</code> <code>TODO: library</code></p><b>In development</b></td>
-    <td width="50%" valign="top"><sub>02 / APPLIED ML</sub><h3>TODO — Predictive Project</h3><p>Solve a real prediction or classification problem with documented evaluation, limitations, and a usable demo.</p><p><code>Python</code> <code>TODO: Pandas</code> <code>TODO: scikit-learn</code></p><b>Planned</b></td>
+    <td width="50%" valign="top"><sub>02 / APPLIED ML</sub><h3>Under development</h3><p>...</p><p><code> </code> <code> </code> <code> </code></p><b> </b></td>
   </tr>
   <tr>
     <td width="50%" valign="top"><sub>03 / DATA</sub><h3>Under development</h3><p>...</p><p><code>Python</code> <code>TODO: SQL</code></p><b>Planned</b></td>
