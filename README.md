@@ -71,55 +71,55 @@ Welcome to my **Knowledge Atelier** — a public record of how I turn study into
     <!-- Fileira 1 -->
     <tr>
       <td width="33.3%" valign="top" align="center">
-        <h3>Python Library Manager</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/python-library-manager">Python Library Manager</a></h3>
+        <p align="center">Terminal library system: OOP, JSON persistence, input validation.</p>
+        <sub>Planned · Private</sub>
       </td>
       <td width="33.3%" valign="top" align="center">
-        <h3>SQL Analytics</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/hr-workflow-automation">HR Workflow Automation</a></h3>
+        <p align="center">Python workflows to validate synthetic HR data and generate reports.</p>
+        <sub>Planned · Private</sub>
       </td>
       <td width="33.3%" valign="top" align="center">
-        <h3>Finance Web App</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/sql-people-analytics">SQL People Analytics</a></h3>
+        <p align="center">PostgreSQL modelling and analytical queries on synthetic HR data.</p>
+        <sub>Planned · Private</sub>
       </td>
     </tr>
     <!-- Fileira 2 -->
     <tr>
       <td width="33.3%" valign="top" align="center">
-        <h3>Finance Management API</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/hr-management-api">HR Management API</a></h3>
+        <p align="center">REST API for fictitious employee management with Django REST Framework.</p>
+        <sub>Planned · Private</sub>
       </td>
       <td width="33.3%" valign="top" align="center">
-        <h3>Data Analysis Dashboard</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/people-analytics-dashboard">People Analytics Dashboard</a></h3>
+        <p align="center">Interactive dashboard of workforce indicators on synthetic data.</p>
+        <sub>Planned · Private</sub>
       </td>
       <td width="33.3%" valign="top" align="center">
-        <h3>Customer Churn Prediction</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/employee-attrition-prediction">Employee Attrition Prediction</a></h3>
+        <p align="center">Reproducible ML study of attrition patterns with suitable datasets.</p>
+        <sub>Planned · Private</sub>
       </td>
     </tr>
     <!-- Fileira 3 -->
     <tr>
       <td width="33.3%" valign="top" align="center">
-        <h3>ML Prediction API</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/candidate-matching-api">Candidate Matching API</a></h3>
+        <p align="center">Experimental, explainable job-requirement analysis with NLP.</p>
+        <sub>Planned · Private</sub>
       </td>
       <td width="33.3%" valign="top" align="center">
-        <h3>End-to-End ML Pipeline</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/end-to-end-ml-pipeline">End-to-End ML Pipeline</a></h3>
+        <p align="center">Reproducible ML pipeline from data validation to inference.</p>
+        <sub>Planned · Private</sub>
       </td>
       <td width="33.3%" valign="top" align="center">
-        <h3>Python Automation Toolkit</h3>
-        <sub>In development</sub>
-        <p align="center"><img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/3-dots-bounce.svg" alt="..." width="20" /></p>
+        <h3><a href="https://github.com/RenanMano/hr-automation-toolkit">HR Automation Toolkit</a></h3>
+        <p align="center">Reusable Python utilities for validation, reporting, and automation.</p>
+        <sub>Planned · Private</sub>
       </td>
     </tr>
   </table>
